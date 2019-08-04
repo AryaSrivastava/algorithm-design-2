@@ -1,2 +1,2 @@
-# algorithm-design-2
-colliding algorithms
+# p5.play-boilerplate
+Boiler plate for p5.play
